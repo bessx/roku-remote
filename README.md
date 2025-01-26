@@ -25,13 +25,16 @@ On most systems, you can install the dependencies with the following commands:
 
 Ubuntu/Debian:
 
+```bash
 sudo apt update sudo apt install nmap curl sed grep net-tools gawk coreutils
+```
 
 
 macOS (with Homebrew):
 
+```bash
 brew install nmap curl gawk coreutils
-
+```
 
 ## Setup
 

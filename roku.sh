@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 # Roku Remote Control Script
+# by bess
 
 # Ensure that the script is executable:
 # chmod +x roku.sh

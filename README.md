@@ -3,7 +3,7 @@
 This script allows you to remotely control Roku devices on your local network using bash. It provides functions to send keypresses, launch apps, and perform other Roku remote actions, such as volume control, text input, and scanning for devices.
 
 ## ECP Commands Enabled
-Script requires ECP commands enabled, these can be set like so:
+Script requires ECP commands enabled, these can be set like so:  
 Settings -> System -> Advanced System Settings -> "Control by mobile apps" -> Set to "Enabled"
 
 ## Features
